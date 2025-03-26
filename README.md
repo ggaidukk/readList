@@ -54,6 +54,7 @@ Führen Sie `ng serve -o` für einen Entwicklungsserver aus. Die Anwendung wird 
 | DELETE  | /api/v1/books/:bookId | Delete a book  |
 
 ## 📌 Screenshots
+
 Add Book Form
 
 ![Add Book Form](/screenshots/Add%20Book%20Form.png)
@@ -66,4 +67,9 @@ Book List
 
 ![Book List](/screenshots/Book%20List.png)
 
+## 😊 Nutzung von KI
+
+**ChatGPT** wurde in diesem Projekt verwendet für:  
+1. Die Erstellung der JSON-Datei für die Datenbank.  
+2. Die Lösung von Problemen beim Schreiben von Funktionen.
 
