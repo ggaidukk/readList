@@ -64,6 +64,6 @@ Search
 
 Book List
 
-![Book List](/screenshots/book%20list.png)
+![Book List](/screenshots/Book%20List.png)
 
 
